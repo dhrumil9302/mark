@@ -24,7 +24,7 @@ const Navbar = () => {
               : 'absolute top-0 h-screen left-[-100%] ease-in duration-500 z-10'
           }
         >
-          <ul className='flex flex-col fixed w-full h-full items-center justify-center'>
+          <ul className='flex flex-col fixed w-full h-full items-center justify-center '>
             <li className='font-bold text-3xl p-8'>Home</li>
             <li className='font-bold text-3xl p-8'>Destinations</li>
             <li className='font-bold text-3xl p-8'>Reservations</li>
